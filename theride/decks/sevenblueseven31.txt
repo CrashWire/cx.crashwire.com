@@ -1,0 +1,19 @@
+3	Corporate Enforcer
+1	Dragon Company Torcher
+1	Hanza Recruit
+2	Hasaku Arctic Auton
+3	Mobile Six Commando
+1	Perimeter Fence
+3	Stadtmauer Infiltrator
+3	Twilight Fugitive
+3	Yasuban Operative
+2	Adrenaline Overload
+3	Hasaku Micro-Auton
+2	Taskmaster 4000
+3	Withdrawal
+4	Covert Ops Submarine
+4	Ops Center
+1	Relovan Biotec Lab
+4	Underground Base: Covert
+2	Underground Base: Cyber
+2	Underground Base: Military

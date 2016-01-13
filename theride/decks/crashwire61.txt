@@ -1,0 +1,16 @@
+4	Arell Cartel Contact
+1	Ashraf Mobolade
+3	Mother Earth Saboteur
+2	Ruka Dogs
+2	Saiko Komon
+4	Shatei
+4	Wakashu
+4	Booster
+1	Psychotropic Juice
+1	Yakusa Contract
+2	False Alarm
+1	Arell Cartel HQ
+4	Refugee Camp
+2	Relovan Biotec Lab
+3	Underground Base: Covert
+3	Underground Base: Military

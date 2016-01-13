@@ -1,0 +1,69 @@
+body {
+    color: #ffffff;
+    scrollbar-face-color: #606060;
+    scrollbar-shadow-color: #404040;
+    scrollbar-highlight-color: #B9B9B9;
+    scrollbar-3dlight-color: #000000;
+    scrollbar-darkshadow-color: #303030;
+    scrollbar-track-color: #000000;
+    scrollbar-arrow-color: #FFFFFF;
+}
+
+td {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 14%;
+}
+
+th {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #ffffcc;
+    font: xx-large Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: #ffffcc;
+    font: large Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: #ffffcc;
+    font: medium Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    color: #ffffcc;
+    font: small Arial, Helvetica, sans-serif;
+}
+
+h6 {
+    color: #ffffff;
+    font: x-small Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    color: #ccffcc;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:visited {
+    color: #ccffff;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}

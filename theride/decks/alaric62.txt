@@ -1,0 +1,15 @@
+3	ComForce Barracks
+3	FUS Command Baton
+4	SLAM Launcher
+3	Charles Doremann
+1	CIA Archives
+3	ComForce Tactical Datapad
+1	EMP Strike
+2	Microwave Rifle
+2	Mobile Six Surveillance Team
+2	Napalm Strike
+3	Winston 'Spurs' Sloan
+10	Desert Training Camp
+1	Mobile Six Training Facility
+2	Network Uplink
+4	Silent Sentinel

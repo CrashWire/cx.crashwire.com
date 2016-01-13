@@ -1,0 +1,20 @@
+1	Black Army Enforcer
+2	Black Army Regular
+1	Captain Charles Doremann
+2	Charles Doremann
+4	General Trelain
+2	Idolic Defender
+2	Joe Jarusek
+3	Leveller
+3	Red Claw Martyr
+1	Security Officer Joe Jarusek
+2	Sniffer Spores
+2	Tan Lau
+2	Viral Vines
+4	Hasaku Micro-Auton
+4	Akashic Detraining
+3	BitTap
+4	Black Army Command Post
+1	Build Site
+2	CIA Archives
+1	Mobile Six Training Facility

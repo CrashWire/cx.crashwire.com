@@ -1,0 +1,19 @@
+2	Bion Cell Drone
+2	Bion Defender
+2	Build Site
+1	Distributed HQ
+1	DNA Scanner
+2	Eminent Domain
+3	ICBM Launch Orders
+2	Jessica Silivir
+1	Matter Compiler
+1	Orpheus AI
+4	Protein Synthesis Lab
+1	Quiroga AI
+3	Rejuvenation Tank
+3	S. I. Kobylka
+1	Taikun Raid Algorithms
+4	T'am Line
+2	Urdan Martyr
+4	Urdan Penitent
+2	Urdan Sentry

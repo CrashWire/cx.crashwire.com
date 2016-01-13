@@ -1,0 +1,12 @@
+4	Anceph Warrior
+4	Frenzied Trooper
+4	Marcus M5x
+4	Mobile Six Team Gold
+4	Zeke Z11x
+4	Concussion Grenade Strike
+4	Scavenger Gang
+1	Build Site
+1	Distributed HQ
+4	NSA Franchise
+4	Ops Center
+3	Tinker Base

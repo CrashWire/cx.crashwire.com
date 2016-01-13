@@ -1,0 +1,59 @@
+body {
+    color: #ffffff;
+    scrollbar-face-color: #606060;
+    scrollbar-shadow-color: #404040;
+    scrollbar-highlight-color: #B9B9B9;
+    scrollbar-3dlight-color: #000000;
+    scrollbar-darkshadow-color: #303030;
+    scrollbar-track-color: #000000;
+    scrollbar-arrow-color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background: #000000 url(images/background.gif);
+    font: 24pt Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    background: #000000 url(images/background.gif);
+    font: 18pt Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    background: #000000 url(images/background.gif);
+    font: 14pt Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    background: #000000 url(images/background.gif);
+    font: 12pt Arial, Helvetica, sans-serif;
+}
+
+h5 {
+    background: #000000 url(images/background.gif);
+    font: 10pt Arial, Helvetica, sans-serif;
+}
+
+h6 {
+    background: #000000 url(images/background.gif);
+    font: 8pt Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    background: #000000 url(images/background.gif);
+    color: #ccffcc;
+    text-decoration: none;
+}
+
+a:visited {
+    background: #000000 url(images/background.gif);
+    color: #ccffff;
+    text-decoration: none;
+}
+
+a:hover {
+    background: #000000 url(images/background.gif);
+    color: #ffffff;
+    text-decoration: underline;
+}

@@ -1,0 +1,18 @@
+2	"Trigger Happy" Jack
+2	AP Mine
+3	Ashraf Mobolade
+2	Bion Pod
+1	Katherine Carter
+2	Restraining Goo
+1	Command Bolt
+2	Restraining Order
+1	Hypnotic Worm
+4	Taser Shackles
+2	7th Air Cavalry Strike
+2	Account Freeze
+2	Power Play
+1	Distributed HQ
+4	Hisho Fortress
+4	PreFab Fortress
+4	Underground Base: Covert
+2	Underground Base: Cyber

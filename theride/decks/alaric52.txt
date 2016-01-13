@@ -1,0 +1,16 @@
+4	Anceph Warrior
+2	Frenzied Trooper
+1	Armored HQ
+4	Eminent Domain
+2	EMP Strike
+2	H. Thalmann
+4	Library Link
+4	Monastic Golem
+1	Presence of Ty'llin
+4	Protein Synthesis Lab
+4	Sewer Dolphin
+4	Shiden Tech
+1	Symmetric Channel
+2	T'am Line
+2	Tomb of the 9th Master
+2	Womb Array

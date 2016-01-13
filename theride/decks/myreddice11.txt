@@ -1,0 +1,21 @@
+1	Arell Cartel Contact
+1	Ashraf Mobolade
+1	B&E Perp
+1	Captain Charles Doremann
+4	Charles Doremann
+4	General Trelain
+4	Joe Jarusek
+4	Lucia Hunter
+1	Nano Wall
+1	Perimeter Fence
+1	Security Officer Joe Jarusek
+4	Taikun Bodyguard
+1	Tan Lau
+1	Viral Vines
+2	ALBMU
+1	Build Site
+1	Distributed HQ
+4	Ops Center
+1	Underground Base: Covert
+1	Underground Base: Military
+2	Wiring Factory

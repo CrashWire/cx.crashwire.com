@@ -1,0 +1,15 @@
+4	Mawson Force Commander
+4	Mawson Force Recon
+2	Mawson Force Snowcat
+4	Mawson Force Trooper
+3	Vostok Guard
+3	Vostok Ranger
+3	Vostok Warden
+2	Arms Export Contract
+2	Military Surplus
+5	ALBMU
+1	Armored HQ
+1	Build Site
+1	NOSC
+4	Prison Camp
+4	Tinker Base

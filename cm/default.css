@@ -1,0 +1,37 @@
+body {
+    color: #000000;
+    font-family: "Comic Sans MS";
+}
+
+td {
+    color: #000000;
+    font-family: "Comic Sans MS";
+}
+
+th {
+    color: #000000;
+    font-family: "Comic Sans MS";
+}
+
+p {
+    color: #000000;
+    font-family: "Comic Sans MS";
+}
+
+a:link {
+    color: #3300ff;
+    text-decoration: none;
+    font-family: "Comic Sans MS";
+}
+
+a:visited {
+    color: #009933;
+    text-decoration: none;
+    font-family: "Comic Sans MS";
+}
+
+a:hover {
+    color: #9933ff;
+    text-decoration: underline;
+    font-family: "Comic Sans MS";
+}

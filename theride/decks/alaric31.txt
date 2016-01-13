@@ -1,0 +1,13 @@
+2	NSA Franchise
+2	Brain Bank
+4	Ops Center
+6	Razor Academy
+2	Sarkov Combine Refinery
+2	Tinker Base
+4	Black Army Saboteur
+4	Mobile Six Team Blue
+2	Perimeter Fence
+2	Pillbox
+4	Raul Grange
+2	Security Checkpoint
+4	Yasuban Operative

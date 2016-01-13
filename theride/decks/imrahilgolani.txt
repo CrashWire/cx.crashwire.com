@@ -1,0 +1,13 @@
+3	Colonel Chandru
+4	Lancaster Armored Corps
+4	Lancaster Commander
+4	Lancaster IC
+4	Lancaster Infantry
+4	Ceremonial Sabre
+4	Security Precautions
+6	ALBMU
+1	Build Site
+1	Golani Special Forces HQ
+2	Prison Camp
+2	UN Weapons Depot
+3	UNSOC

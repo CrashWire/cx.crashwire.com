@@ -1,0 +1,14 @@
+4	Arell Cartel Contact
+1	Ashraf Mobolade
+4	Ruka Dogs
+4	Saiko Komon
+4	Salvaged Artillery
+4	Wakashu
+1	Yakusa Contract
+4	Crash & Burn
+4	Termites
+1	Arell Cartel HQ
+4	Refugee Camp
+3	Underground Base: Covert
+2	Underground Base: Cyber
+1	Underground Base: Military

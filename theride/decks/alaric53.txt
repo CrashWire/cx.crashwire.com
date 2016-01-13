@@ -1,0 +1,12 @@
+4	Anceph Warrior
+4	Brain Bank
+4	Marcus M5x
+4	Security Checkpoint
+4	Twilight Warrior
+2	Warrior Hunome
+2	Disruptor Symbiote
+4	Concussion Grenade Strike
+3	H. Thalmann
+3	NSA Franchise
+3	Ops Center
+3	Tinker Base

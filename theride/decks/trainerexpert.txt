@@ -1,0 +1,24 @@
+2	Anceph Warrior
+2	Biomech Raptor
+4	Charles Doremann
+1	Exo Trooper
+1	General Trelain
+2	Jacqueline
+2	Pillbox
+2	Raul Grange
+2	Security Checkpoint
+1	Sewer Dolphin
+2	SORO-19
+1	CranialTutor (Sabotage)
+1	Flaked Micro-Explosive
+2	Plasma Torch
+1	7th Air Cavalry Strike
+1	Cluster Bomb Strike
+2	Disaster Assistance
+1	H. Thalmann
+2	Ammo Cache
+2	BitTap
+3	Brain Bank
+2	Desert Training Camp
+2	Jack-Ups Bar
+2	Wiring Factory

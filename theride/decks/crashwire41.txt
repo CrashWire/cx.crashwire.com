@@ -1,0 +1,12 @@
+5	ALBMU
+4	Colonel Chandru
+4	DX Sentry
+2	Electrical Defenses
+1	Golani Special Forces HQ
+4	Golani Trooper
+4	NOSC
+2	Perimeter Fence
+4	Pillbox
+4	Security Checkpoint
+4	Security Precautions
+3	UN Intelligence Center

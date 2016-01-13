@@ -1,0 +1,25 @@
+1	Artemis Olin
+2	Biomech Raptor
+3	Black Beret Trooper
+1	Exo Trooper
+1	General Trelain
+4	Los Ladrones Biker
+2	Ortho
+1	Perimeter Fence
+1	Pillbox
+2	UN Trooper
+2	Yasuban Operative
+1	Zapp
+1	Booster
+1	Flaked Micro-Explosive
+1	Salvaged Combat Armor
+1	Scorpion Claws
+1	Cluster Bomb Strike
+2	Disaster Assistance
+1	H. Thalmann
+2	Ammo Cache
+2	BitTap
+2	Brain Bank
+2	Desert Training Camp
+2	Jack-Ups Bar
+3	Wiring Factory

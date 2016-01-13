@@ -1,0 +1,13 @@
+3	Arell Cartel Lieutenant
+4	Black Army Saboteur
+3	Freelancer
+4	Rainbow Defender
+4	Twilight Fugitive
+3	Booster
+3	Null Bomber Hit
+4	Lag
+3	Ammo Cache
+1	Arell Cartel HQ
+3	BitTap
+4	Jack-Ups Bar
+2	Tinker Base

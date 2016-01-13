@@ -1,0 +1,19 @@
+4	Surgical Strike
+1	Razor Academy
+2	Build Site
+1	Hive HQ
+1	Brain Bank
+1	Ashraf Mobolade
+3	Laser Defense Grid
+3	Sarkov Combine Refinery
+2	Military Surplus
+2	Lohwan's Acid Rain
+2	Security Checkpoint
+2	Taser Shackles
+2	Ambassador Khan
+4	Advance Operative
+2	Urdan Penitent
+2	Microwave Rifle
+3	Bion Pod
+2	Laser Spotlight
+4	Autocannons

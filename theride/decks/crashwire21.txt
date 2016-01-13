@@ -1,0 +1,10 @@
+4	Anceph Warrior
+4	ISX-9000 Attack Bot
+4	Militia Raider
+4	Pack Crusher
+4	Shiden Strider
+4	Stadtmauer Infiltrator
+4	H. Thalmann
+4	NSA Franchise
+4	Ops Center
+4	Tinker Base

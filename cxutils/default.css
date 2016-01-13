@@ -1,0 +1,33 @@
+body {
+    color: #ffffff;
+    scrollbar-face-color: #606060;
+    scrollbar-shadow-color: #404040;
+    scrollbar-highlight-color: #B9B9B9;
+    scrollbar-3dlight-color: #000000;
+    scrollbar-darkshadow-color: #303030;
+    scrollbar-track-color: #000000;
+    scrollbar-arrow-color: #FFFFFF;
+}
+
+td {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    color: #00ff00;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:visited {
+    color: #ccffcc;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}

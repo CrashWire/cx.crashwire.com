@@ -1,0 +1,12 @@
+2	Artemis Olin
+4	Anceph Drone
+4	Black Beret Trooper
+2	Perimeter Fence
+5	Desert Training Camp
+2	Zapp
+2	Disaster Assistance
+5	Brain Bank
+5	Jack-Ups Bar
+2	Pack Crusher
+3	RAT Team
+4	Ortho

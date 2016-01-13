@@ -1,0 +1,15 @@
+3	Lancaster Armored Corps
+2	Lancaster Commander
+3	Lancaster IC
+3	Lancaster Infantry
+2	Prometheus WarMachine
+2	Tactical Command Bunker
+3	Utopia Gunship
+3	Arms Export Contract
+4	Napalm Strike
+2	Orbital Cannon Strike
+4	ALBMU
+1	Build Site
+2	NOSC
+2	NSA Franchise
+4	PreFab Fortress

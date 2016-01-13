@@ -1,0 +1,14 @@
+4	Anceph Warrior
+4	Frenzied Trooper
+2	Hasaku Commercial Auton
+4	Marcus M5x
+4	Zeke Z11x
+4	Concussion Grenade Strike
+4	H. Thalmann
+3	Scavenger Gang
+1	BitTap
+2	Build Site
+1	Distributed HQ
+3	NSA Franchise
+3	Ops Center
+3	Tinker Base

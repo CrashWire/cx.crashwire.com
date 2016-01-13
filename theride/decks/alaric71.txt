@@ -1,0 +1,16 @@
+1	Quantum Trance
+4	Taikun Cleaner
+1	Underground HQ
+1	EMP Strike
+4	H. Thalmann
+4	Lohwan's Acid Rain
+2	Public Database Access
+4	Saro Gbokoo
+2	Software Maintenance Contract
+4	Tinker Base
+1	Tobi Wong
+3	Underground Base: Covert
+3	Underground Base: Cyber
+4	Winston 'Spurs' Sloan
+2	Artemis Olin
+1	Tracer 2.5
